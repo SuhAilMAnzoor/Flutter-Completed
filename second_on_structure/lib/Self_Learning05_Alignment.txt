@@ -1,0 +1,11 @@
+column  - top to bottom > ttp
+
+        mainAxixAlignment  >  ttb
+        crossaxix > ltr
+
+
+
+row    - left to right  > ltr     
+
+         mainAxix  > ltr
+         crossaxix > ttb
