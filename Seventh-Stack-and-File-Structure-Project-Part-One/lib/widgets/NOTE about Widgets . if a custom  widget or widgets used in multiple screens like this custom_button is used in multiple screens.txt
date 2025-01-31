@@ -1,0 +1,1 @@
+if a custom  widget or widgets used in multiple screens like this custom_button is used in multiple screens this custom widget and those kind of widgets will be in this folder

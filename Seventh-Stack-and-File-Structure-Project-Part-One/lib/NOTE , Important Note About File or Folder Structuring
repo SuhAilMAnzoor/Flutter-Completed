@@ -1,0 +1,24 @@
+//Note
+Please import each file in main.dart file one by one,
+open Each File and See their Class name and import them one by one in main.dart file,
+you can't add all files in main.dart file at time
+
+
+
+
+Second Important Note About :
+File OR Folder Structuring <> This is so important for Structuring Files 
+
+Like All Pages/Screens/View.dart files > will be in screen/view/pages Folder in lib folder like this:
+       (   home_screen.dart       in this folder   <screens> in lib folder  )
+
+Logic will be in separate Folder like Fuctions folder you create in lib folder
+     (    addtolistfunction.dart  in              <functions> in lib folder
+
+
+custom widgets you have crated for you easiness will be in widgets folder in this we use custom_button  for over project
+
+(  custom_button.dart            in this folder   <widgets folder> in lib folder
+
+
+This is the best approach file structuring  

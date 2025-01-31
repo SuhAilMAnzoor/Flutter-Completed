@@ -1,0 +1,10 @@
+Utils Or Constant
+Colors path used in Our App, Rather than Defining them separetely in code it is better to define them in app_colors.dart file for reusibilty
+App Images Path used in Our App Rather Defining them in Code It is better To Seperate them from code and use this approch to define all images path in this app_images.dart file to add images path and use class instead placing images in code
+
+
+Benefits
+Maintainability: Centralizing resources like colors and images makes updates straightforward. Changing a single value or path reflects everywhere it's used.
+Readability: Your widget files remain clean and focused on layout and functionality rather than low-level resource details.
+Consistency: Prevents accidental usage of different shades or paths for the same resource.
+Scalability: As your app grows, managing assets becomes easier with centralized files.
