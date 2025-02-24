@@ -9,7 +9,7 @@ class ThirdScreen extends StatelessWidget {
       appBar: AppBar(
         title: const Text("Third Screen"),
       ),
-      body: const Text("When you back, You will be at first screen not Second Screen , because pushReplacement is used in second screen, check second_screen for code"),
+      body: const Text("When you hit back button, You will be navigated to first screen not Second Screen ,because pushReplacement is used in second screen that will be not remebered second screen route, it will be be navigated to first route that is first screen, check second_screen for code"),
     );
   }
 }
