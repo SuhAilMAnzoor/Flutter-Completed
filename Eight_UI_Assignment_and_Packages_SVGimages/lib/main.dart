@@ -1,5 +1,4 @@
 import 'package:eight_ui_assignment_and_packages_svgimages/app_life_cycle.in_Stateful.dart';
-import 'package:eight_ui_assignment_and_packages_svgimages/svg_images.dart';
 import 'package:flutter/material.dart';
 
 void main() {
