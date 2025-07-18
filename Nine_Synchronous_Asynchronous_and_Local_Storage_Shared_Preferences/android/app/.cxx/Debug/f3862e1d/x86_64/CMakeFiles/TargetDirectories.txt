@@ -1,0 +1,2 @@
+C:/Users/SohAil MAnzoor/Desktop/My Workspace/Flutter Lectures/nine_synchronous_asynchronous_and_local_storage/android/app/.cxx/Debug/f3862e1d/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/SohAil MAnzoor/Desktop/My Workspace/Flutter Lectures/nine_synchronous_asynchronous_and_local_storage/android/app/.cxx/Debug/f3862e1d/x86_64/CMakeFiles/rebuild_cache.dir
