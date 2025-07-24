@@ -1,0 +1,2 @@
+C:/Users/SohAil MAnzoor/Desktop/My Workspace/Flutter Lectures/eleven_project_functionality_perspective_not_ui/android/app/.cxx/Debug/583w52z5/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/SohAil MAnzoor/Desktop/My Workspace/Flutter Lectures/eleven_project_functionality_perspective_not_ui/android/app/.cxx/Debug/583w52z5/arm64-v8a/CMakeFiles/rebuild_cache.dir
