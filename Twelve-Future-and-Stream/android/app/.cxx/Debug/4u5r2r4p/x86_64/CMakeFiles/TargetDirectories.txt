@@ -1,0 +1,2 @@
+C:/Users/SohAil MAnzoor/Desktop/My Workspace/Flutter-Completed/Twelve-Future-and-Stream/android/app/.cxx/Debug/4u5r2r4p/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/SohAil MAnzoor/Desktop/My Workspace/Flutter-Completed/Twelve-Future-and-Stream/android/app/.cxx/Debug/4u5r2r4p/x86_64/CMakeFiles/rebuild_cache.dir

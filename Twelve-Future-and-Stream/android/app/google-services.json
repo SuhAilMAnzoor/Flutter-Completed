@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560790954993",
+    "project_id": "twelve-future-and-stream",
+    "storage_bucket": "twelve-future-and-stream.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560790954993:android:0160cf0ff91d36a7939a50",
+        "android_client_info": {
+          "package_name": "com.sohail.twelve_future_and_stream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM_VwykeY63lZrrc6NOi4IQKxBNnXmTKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
