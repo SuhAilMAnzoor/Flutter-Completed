@@ -1,0 +1,5 @@
+package com.example.eleven_project_functionality_with_ui_perspective_and_cart_functionalites_pt3
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
